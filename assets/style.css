@@ -103,20 +103,73 @@ button {
    color: rgb(219, 146, 219);
 
   }
-  
-  webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
-}
-
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+  .subHeading {
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 300px;
+    margin: 50px auto;
+    font-family: 'Courier New', Courier, monospace;
   }
-  to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
-  }
+  #categoryGrid {
+    margin: 0px 5%;
+    display: grid;
+    grid-template-rows: 500px 500px 500px ;
+    grid-template-columns: 1fr 2f
 
+    "About Me  Text-About-Me  Text-About-Me"
+    "Work "
+    "Resume  "
+    "Contact-Me"
+  }
   
+    /* Define the main grid container */
+        .portfolio-grid {
+
+          margin-top: 50px;
+            display: grid;
+            grid-template-columns: 15% 85%;
+            grid-template-rows: auto auto auto auto;
+            gap: 20px;
+        }
+
+        /* Define the nested grid for row number 2 */
+        .nested-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: auto auto auto;
+            gap: 10px;
+        }
+
+        /* Style for portfolio items */
+        .portfolio-item {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+ 
+ .Text1{
+  font-size: 25px ;
+  color: gray;
+ }
+.heading{
+  font-size: 30px ;
+  color:rgb(185, 69, 185);
+  border-right: 3px solid;
  }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
