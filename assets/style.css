@@ -14,8 +14,11 @@ header {
   font-family: fuggles; 
   background: black;
   color: whitesmoke;
-}
-.container {
+} 
+ 
+  /* First container */
+
+.NavBar {
   width: 100%;
   margin: 0 auto;
 }
@@ -25,14 +28,17 @@ header {
   margin-left: 20px ;
   position: absolute;
 }
+
+/*Navigation Bar */
+
 nav {
   float: right;
   background-color:black 
 }
 nav ul {
- margin:0;
- padding: 0;
- list-style: none;
+  margin:0;
+  padding: 0;
+  list-style: none;
 
 }
 nav ul li {
@@ -40,10 +46,13 @@ nav ul li {
   margin-left: 20x;
   margin-right:20px;
   margin-top: 20px;
- font-size: 30px;
- color: black;
+  font-size: 30px;
+  color: black;
 
 }
+
+/*Buttons Nav Bar */
+
 button {
   --glow-color: rgb(217, 176, 255);
   --glow-spread-color: rgba(191, 123, 255, 0.781);
@@ -91,16 +100,25 @@ button {
          0 0 2.5em 2em var(--glow-spread-color),
          inset 0 0 .5em .25em var(--glow-color);
 }
+
+/* Hero image */
+
 img{
-   height: 350px;
-   width: 1750px;
+  height: 350px;
+  width: 1750px;
 }
+
+/* Sentence Hero image */
+
 .sentence-Hero{
   font-size: 60px;
   margin-left: 220px;
   font-family: fuggles;
   color: rgb(219, 146, 219);
 }
+
+/* Main Grid*/
+
 .portfolio-grid {
   margin-top: 80px;
   margin-bottom: 50px;
@@ -109,24 +127,55 @@ img{
   grid-template-rows: auto auto auto auto;
   gap: 20px;
 }
+
+/*Nested Grid */
+
 .nested-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: auto auto auto;
   gap: 20px;
 }
-.heading{
+
+/* Heading style */
+#heading1{
  font-size: 30px;
   font-weight: bold;
   color:rgb(185, 69, 185);
   border-right: 3px solid;
   margin-left: 20px;
 }
+#heading2{
+  font-size: 30px;
+   font-weight: bold;
+   color:rgb(185, 69, 185);
+   border-right: 3px solid;
+   margin-left: 20px;
+ }
+ #heading3{
+  font-size: 30px;
+   font-weight: bold;
+   color:rgb(185, 69, 185);
+   border-right: 3px solid;
+   margin-left: 20px;
+ }
+ #heading4{
+  font-size: 30px;
+   font-weight: bold;
+   color:rgb(185, 69, 185);
+   border-right: 3px solid;
+   margin-left: 20px;
+ }
+/*Text About Me section */
+
 .Text1{
  font-size: 25px ;
  color: gray;
  margin-bottom: 30px;
 }
+
+/* Pictures nested grid */
+
 .portfolio-item1{
   grid-column: 1/ span 2;
   padding: 10px;
@@ -208,11 +257,15 @@ img{
   color:whitesmoke;
   font-size: 25px; 
 }
+
+/* Text Resume */
 .Text2{
   font-size: 25px ;
   color: gray;
  margin-bottom: 30px;
 }
+/* Contact Me Section */
+
 .Contact-Me {
   font-size: 25px ;
   color: gray;
@@ -222,6 +275,7 @@ img{
   display: inline-block;
   margin-left: 120px;
   margin-right: 95px;
+  
 }    
 .Contact-Me li :hover {
   color:rgb(185, 69, 185);
