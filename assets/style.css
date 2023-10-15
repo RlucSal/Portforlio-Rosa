@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   outline: none;
+  
 }
 body {
   margin: 0;
@@ -105,7 +106,7 @@ button {
 
 img{
   height: 350px;
-  width: 1750px;
+  width: 100%;
 }
 
 /* Sentence Hero image */
@@ -279,13 +280,21 @@ img{
 }    
 .Contact-Me li :hover {
   color:rgb(185, 69, 185);
-  box-shadow: 0 0 2em .25em black,
-  0 0 4em 2em var black
-  inset 0 0 .75em .25em black
+  
 }
 
 
+/* Media queries for different screen sizes */
 
-
-
-  
+/* Mobile devices */
+@media screen and (max-width: 480px) { 
+}
+/* iPads and Tablets */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+}
+/* laptops */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+}
+/* Desktops */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+}
