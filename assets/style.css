@@ -92,7 +92,7 @@ button {
          inset 0 0 .5em .25em var(--glow-color);
 }
 img{
-   height: 300px;
+   height: 350px;
    width: 1750px;
 }
 .sentence-Hero{
@@ -101,8 +101,6 @@ img{
   font-family: fuggles;
   color: rgb(219, 146, 219);
 }
-  
-  /* Define the main grid container */
 .portfolio-grid {
   margin-top: 80px;
   margin-bottom: 50px;
@@ -111,7 +109,6 @@ img{
   grid-template-rows: auto auto auto auto;
   gap: 20px;
 }
-  /* Define the nested grid for row number 2 */
 .nested-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -139,7 +136,7 @@ img{
 }
 .text-box1{
   position: absolute;
-  top: 245px; 
+  top: 295px; 
   left: 20px;
   padding: 10px;
   border: 2px solid  rgb(185, 69, 185); 
@@ -155,7 +152,7 @@ img{
 }
 .text-box2{
   position: absolute;
-  top: 245px; 
+  top: 295px; 
   left: 20px;
   padding: 10px;
   border: 2px solid  rgb(185, 69, 185); 
@@ -171,7 +168,7 @@ img{
 }
 .text-box3{
   position: absolute;
-  top: 245px; 
+  top: 295px; 
   left: 20px;
   padding: 10px;
   border: 2px solid  rgb(185, 69, 185); 
@@ -187,7 +184,7 @@ img{
 }
 .text-box4{
   position: absolute;
-  top: 245px; 
+  top: 295px; 
   left: 20px;
   padding: 10px;
   border: 2px solid  rgb(185, 69, 185); 
@@ -203,13 +200,18 @@ img{
 }
 .text-box5{
   position: absolute;
-  top: 245px; 
+  top: 295px; 
   left: 20px;
   padding: 10px;
   border: 2px solid  rgb(185, 69, 185); 
   background-color: transparent;
   color:whitesmoke;
   font-size: 25px; 
+}
+.Text2{
+  font-size: 25px ;
+  color: gray;
+ margin-bottom: 30px;
 }
 .Contact-Me {
   font-size: 25px ;
@@ -227,7 +229,6 @@ img{
   0 0 4em 2em var black
   inset 0 0 .75em .25em black
 }
-
 
 
 
