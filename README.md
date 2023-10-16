@@ -26,16 +26,16 @@
 ## Usage
 
 1. Navigation:
-1.1. URL Entry: To visit a specific web page, type the website's URL in the address bar at the top of your browser. Press "Enter" to load the page.
-1.2. Back and Forward: Use the browser's navigation buttons (usually located near the top-left) to move back and forward between pages you've visited.
+   URL Entry: To visit a specific web page, type the website's URL in the address bar at the top of your browser. Press "Enter" to load the page.
+   Back and Forward: Use the browser's navigation buttons (usually located near the top-left) to move back and forward between pages you've visited.
 2. Scrolling:
-2.1. Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
-2.1. Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
+   Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
+   Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
 3. Clicking Links:
-3.1. Hyperlinks: Click on hyperlinks (usually highlighted text or buttons) to access other web pages, articles, or resources.
-3.2. Dropdown Menus: Click or tap dropdown menus to select options.
+   Hyperlinks: Click on hyperlinks (usually highlighted text or buttons) to access other web pages, articles, or resources.
+   Dropdown Menus: Click or tap dropdown menus to select options.
 4. Clearing Cookies and Cache:
-4.1. Privacy Settings: In browser settings, you can clear cookies and cached data to maintain privacy and improve performance.
+   Privacy Settings: In browser settings, you can clear cookies and cached data to maintain privacy and improve performance.
 
 ### Screenshot
 
