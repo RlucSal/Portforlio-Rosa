@@ -50,10 +50,10 @@ https://rlucsal.github.io/Portforlio-Rosa/
 https://openai.com/blog/chatgpt
 https://www.w3schools.com/html/html_intro.asp
 https://www.w3schools.com/css/css_intro.asp
-https://blog.hubspot.com/website/comment-out-in-css#:~:text=To%20comment%20in%20CSS%2C%20simply,rendered%20on%20the%20front%20end.&text=Comments%20in%20CSS%20are%20ignored,rendered%20on%20the%20front%20end.
+https://blog.hubspot.com/website/comment-out-in-css#:~:text=To%20comment%20in%20CSS%2C%20simply,rendered%20on%20the%20front%20end.&text=Comments%20in%20CSS%20are%20ignored,rendered%20on%20the%20front%20end
 https://stackoverflow.com/
-https://code.visualstudio.com/. 
-https://git-scm.com/.
+https://code.visualstudio.com/
+https://git-scm.com/
 https://github.com/
 
 ## Licence
