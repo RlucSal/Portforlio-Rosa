@@ -28,14 +28,19 @@
 1. URL Entry: To visit a specific web page, type the website's URL in the address bar at the top of your browser. Press "Enter" to load the page.
 2. Back and Forward: Use the browser's navigation buttons (usually located near the top-left) to move back and forward between pages you've visited.
 3. Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
-4. Vertical Scrolling: Scroll up and down on a web page using your mouse's scroll wheel or by dragging the scrollbar on the right side.
-5. Hyperlinks: Click on hyperlinks (usually highlighted text or buttons) to access other web pages, articles, or resources.
-6. Dropdown Menus: Click or tap dropdown menus to select options.
-7. Clearing Cookies and Cache:
-8. Privacy Settings: In browser settings, you can clear cookies and cached data to maintain privacy and improve performance.
+4. Hyperlinks: Click on hyperlinks (usually highlighted text or buttons) to access other web pages, articles, or resources.
+5. Dropdown Menus: Click or tap dropdown menus to select options.
+6. Privacy Settings: In browser settings, you can clear cookies and cached data to maintain privacy and improve performance.
 
 ### Screenshot
-
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/7893722b-9d33-45b0-9de8-1ba7fbf90c34)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/e2571eff-51f8-40e9-b016-ad731249bb6c)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/bf9f09f8-28ff-4f3f-ad8e-49358f79f36c)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/6763a450-bd32-495c-9c0f-1d4a4114680b)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/0cd95ef2-e87b-4df7-9b07-a6980d79a1c1)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/a087f52f-9c10-4e92-ae70-60002ba2fa58)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/eebc0849-e594-416e-bc62-0d30b0df4383)
+![image](https://github.com/RlucSal/Portforlio-Rosa/assets/145674108/031d6a3a-b06c-44f8-9934-3fb40192d6ef)
 
 ### Link to deployed application
 https://rlucsal.github.io/Portforlio-Rosa/
