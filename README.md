@@ -46,9 +46,7 @@
 https://rlucsal.github.io/Portforlio-Rosa/
 
 ## Credits
-https://www.semrush.com/lp/product-seo-challenges/en/?kw=website%20seo%20marketing&cmp=UK_SRCH_SEO_Tools_New_Enhanced_EN&label=seo_tool&Network=g&Device=c&utm_content=445512485485&kwid=kwd-371635466&cmpid=20455432
-https://www.igniyte.co.uk/tackling-online-trolls/
-https://www.wordstream.com/social-media-marketing
+
 https://openai.com/blog/chatgpt
 https://www.w3schools.com/html/html_intro.asp
 https://www.w3schools.com/css/css_intro.asp
